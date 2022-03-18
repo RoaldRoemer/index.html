@@ -1,0 +1,94 @@
+
+*{
+    margin: 0px;
+	padding: 0px;
+}
+
+
+body{
+     background-color: rgb(73, 73, 73);
+     background: url("Bilder/Bild1.png");
+	 background-repeat:repeat-y;
+	 background-size: cover;
+}
+
+#Über{
+        font-family:'Courier New', Courier, monospace; 
+        font-weight: bold;
+		height: 80px;
+        text-align: center;
+        color: white;
+        border-bottom-left-radius: 12px;
+	    border-bottom-right-radius: 12px;
+	    background-image: linear-gradient(to right, rgb(62, 220, 326) 0%, rgb(62, 150, 226) 15%, rgb(33, 84, 126) 80%)
+}
+
+.ÜberA{
+        font-weight: bold;
+		padding: 20px 10px 20px 10px; 
+}
+
+.button{
+        color: white;
+        background-color:black;
+        width: 150px;
+        height: 70px;
+        border-radius: 15px;
+        margin-left: 150px;
+	    font-family:'Courier New', Courier, monospace;
+        font-size: 18px;
+        font-weight: bold; 
+	    
+}
+
+
+
+#Reihe{
+        padding: 10px;
+       
+}
+
+.button2{
+		color: black;
+        background-color:white;
+        width: 160px;
+        height: 70px;
+        border-radius: 5px;
+	 	font-family:'Courier New', Courier, monospace;
+	    font-size: 18px;
+        font-weight: bold; 
+}
+
+#Fuß{
+	clear: both;
+	text-align: center;
+}
+
+.text{
+        font-size: 20px;
+        font-family:'Courier New', Courier, monospace;
+        color: white;
+		font-weight: bold;
+}
+
+.text1{
+        font-size: 20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: white;
+		font-weight: bold;
+}
+
+.Auswahl{
+  	margin-left: 65px;
+	
+}
+
+.select{
+	margin-left: 100px;
+	weight: 30px;
+	background-color: black;
+	color: white;
+	border-radius: 12px;
+}
+
+
